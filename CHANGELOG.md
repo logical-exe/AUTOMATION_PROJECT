@@ -1,8 +1,8 @@
 #CHANGELOG
-## Initial Commit v1.0
+## Initial Commit v1.0  | 11/15/2025 | Connor
   -added base Files
-## v1.1
-  -added custom rock textures 
-  -added issues
-  -fixed issue "Transport s connect array out of bounds"
-  -updated to do list
+## v1.1 | 11/15/2025 | Connor
+  <p>-added custom rock textures</p>
+  <p>-added issues</p>
+  <p>-fixed issue "Transport s connect array out of bounds"</p>
+  <p>-updated to do list</p>
