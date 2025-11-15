@@ -5,4 +5,5 @@
   <p>-added custom rock textures</p>
   <p>-added issues</p>
   <p>-fixed issue "Transport s connect array out of bounds"</p>
-  <p>-updated to do list</p>
+## v1.2 | 11/15/2025 | Connor
+  <p>-started agv travel proc flow</p>
