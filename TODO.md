@@ -1,5 +1,4 @@
 <h1>TODO</h1>
-<p>-Make transporter follow nodes</p>
 <p>-make processors change shape (raw to rough, rough to final)</p>
 <p>-add in OPC DA Server</p>
 <p>-add in Dashboard</p>
